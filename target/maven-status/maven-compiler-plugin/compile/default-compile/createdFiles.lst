@@ -1,0 +1,5 @@
+com\docler\wtest\HomePage.class
+com\docler\wtest\BasePage.class
+com\docler\wtest\App.class
+com\docler\wtest\ErrorPage.class
+com\docler\wtest\FormPage.class
