@@ -1,7 +1,7 @@
 #my-app requirements:
-Apache Maven 3.3.9
-Java version: 1.8.0_74, vendor: Oracle Corporation
-Installed Firefox
+-Apache Maven 3.3.9
+-Java version: 1.8.0_74, vendor: Oracle Corporation
+-Installed Firefox
 
 #Usage
 ##Command line
